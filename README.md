@@ -40,6 +40,9 @@
 ## Metaclasses
 1. [What is a metaclass in Python?](http://stackoverflow.com/questions/100003/what-is-a-metaclass-in-python)
 
+## Python magic methods
+1. [magic methods](http://www.rafekettler.com/magicmethods.html)
+
 ## XPath
 1. [XPath tutorial](http://www.zvon.org/comp/r/tut-XPath_1.html)
 
