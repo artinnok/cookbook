@@ -21,5 +21,14 @@
 ## ORM
 1. [Готовим Django ORM](https://www.youtube.com/watch?v=nYzJsR7mW1s)
 
+## Initial VPS setup
+1. [Initial Server Setup with Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-14-04)
+2. [How To Deploy a Local Django App to a VPS](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-local-django-app-to-a-vps)
+3. [How To Install and Configure Django with Postgres, Nginx, and Gunicorn](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-django-with-postgres-nginx-and-gunicorn)
+4. [Django + Python3 + Nginx + Gunicorn + DO](http://djbook.ru/examples/62/)
+
+## Metaclasses
+1. [What is a metaclass in Python?](http://stackoverflow.com/questions/100003/what-is-a-metaclass-in-python)
+
 ## OOP: Inheritance
 1. [Порядок разрешения методов в Python](https://habrahabr.ru/post/62203/)
