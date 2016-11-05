@@ -37,5 +37,8 @@
 ## XPath
 1. [XPath tutorial](http://www.zvon.org/comp/r/tut-XPath_1.html)
 
+## Python 2.7 vs Python 3.4
+1. [The key differences between Python 2.7.x and Python 3.x with examples](http://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html#for-loop-variables-and-the-global-namespace-leak)
+
 ## OOP: Inheritance
 1. [Порядок разрешения методов в Python](https://habrahabr.ru/post/62203/)
