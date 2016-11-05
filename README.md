@@ -20,7 +20,7 @@
 2. [CheckIO - online game for Python and JavaScript coders](checkio.org)
 
 ## Tips and Tricks
-1. [http://theasder.github.io/python/2016/02/13/Hidden-features-of-Python.html](http://theasder.github.io/python/2016/02/13/Hidden-features-of-Python.html)
+1. [10 скрытых фич Python](http://theasder.github.io/python/2016/02/13/Hidden-features-of-Python.html)
 
 ## Context managers
 1. [Python with Context Managers](http://jeffknupp.com/blog/2016/03/07/python-with-context-managers/)
