@@ -8,6 +8,9 @@
 1. [The Twelve-Factor App](https://12factor.net/)
 2. [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
 
+## Tips and Tricks
+1. [http://theasder.github.io/python/2016/02/13/Hidden-features-of-Python.html](http://theasder.github.io/python/2016/02/13/Hidden-features-of-Python.html)
+
 ## Context managers
 1. [Python with Context Managers](http://jeffknupp.com/blog/2016/03/07/python-with-context-managers/)
 2. [Лекция 7: Исключения и менеджеры контекста](https://compscicenter.ru/media/slides/python_2015_autumn/2015_10_19_python_2015_autumn.pdf)
