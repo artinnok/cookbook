@@ -60,8 +60,8 @@
 6. [Основы Linux от основателя Gentoo. Часть 2 (3/5): Управление процессами](https://habrahabr.ru/post/105657/)
 7. [Основы Linux от основателя Gentoo. Часть 2 (4/5): Обработка текста и перенаправления](https://habrahabr.ru/post/105926/)
 8. [Основы Linux от основателя Gentoo. Часть 2 (5/5): Модули ядра](https://habrahabr.ru/post/107981/)
-9. [Основы Linux от основателя Gentoo. Часть 4 (1/4): Файловые системы, разделы и блочные устройства](https://habrahabr.ru/post/116907/)
-10. [Основы Linux от основателя Gentoo. Часть 3 (1/4): Документация](https://habrahabr.ru/post/108764/)
+9. [Основы Linux от основателя Gentoo. Часть 3 (1/4): Документация](https://habrahabr.ru/post/108764/)
+10. [Основы Linux от основателя Gentoo. Часть 4 (1/4): Файловые системы, разделы и блочные устройства](https://habrahabr.ru/post/116907/) 
 
 ## OOP: Inheritance
 1. [Порядок разрешения методов в Python](https://habrahabr.ru/post/62203/)
