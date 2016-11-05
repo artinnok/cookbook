@@ -30,5 +30,8 @@
 ## Metaclasses
 1. [What is a metaclass in Python?](http://stackoverflow.com/questions/100003/what-is-a-metaclass-in-python)
 
+## XPath
+1. [XPath tutorial](http://www.zvon.org/comp/r/tut-XPath_1.html)
+
 ## OOP: Inheritance
 1. [Порядок разрешения методов в Python](https://habrahabr.ru/post/62203/)
