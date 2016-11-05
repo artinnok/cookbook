@@ -72,6 +72,7 @@
 
 ## Other
 1. [Python 3 ports list](http://python3wos.appspot.com/)
+2. [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](http://joelonsoftware.com/articles/Unicode.html)
 
 ## OOP: Inheritance
 1. [Порядок разрешения методов в Python](https://habrahabr.ru/post/62203/)
