@@ -51,17 +51,17 @@
 2. [10 Best Practices for Better RESTful API](http://blog.mwaysolutions.com/2014/06/05/10-best-practices-for-better-restful-api/)
 3. [http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api#requirements](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api#requirements)
 
-## Linux / bash
+## Linux / bash 
 1. [Основы Linux от основателя Gentoo. Часть 1 (1/4): BASH, основы навигации](https://habrahabr.ru/post/99041/)
-2. [Основы Linux от основателя Gentoo. Часть 2 (1/5): Регулярные выражения](https://habrahabr.ru/post/102442/)
-3. [Основы Linux от основателя Gentoo. Часть 2 (3/5): Управление процессами](https://habrahabr.ru/post/105657/)
-4. [Основы Linux от основателя Gentoo. Часть 4 (1/4): Файловые системы, разделы и блочные устройства](https://habrahabr.ru/post/116907/)
-5. [Основы Linux от основателя Gentoo. Часть 3 (1/4): Документация](https://habrahabr.ru/post/108764/)
-6. [Основы Linux от основателя Gentoo. Часть 2 (5/5): Модули ядра](https://habrahabr.ru/post/107981/)
+2. [Основы Linux от основателя Gentoo. Часть 1 (2/4): Управление файлами и директориями](https://habrahabr.ru/post/99291/)
+3. [Основы Linux от основателя Gentoo. Часть 1 (3/4): Ссылки, а также удаление файлов и директорий ](https://habrahabr.ru/post/99653/)
+4. [Основы Linux от основателя Gentoo. Часть 1 (4/4): Glob-подстановки](https://habrahabr.ru/post/99827/)
+5. [Основы Linux от основателя Gentoo. Часть 2 (1/5): Регулярные выражения](https://habrahabr.ru/post/102442/)
+6. [Основы Linux от основателя Gentoo. Часть 2 (3/5): Управление процессами](https://habrahabr.ru/post/105657/)
 7. [Основы Linux от основателя Gentoo. Часть 2 (4/5): Обработка текста и перенаправления](https://habrahabr.ru/post/105926/)
-8. [Основы Linux от основателя Gentoo. Часть 1 (4/4): Glob-подстановки](https://habrahabr.ru/post/99827/)
-9. [Основы Linux от основателя Gentoo. Часть 1 (3/4): Ссылки, а также удаление файлов и директорий ](https://habrahabr.ru/post/99653/)
-10. [Основы Linux от основателя Gentoo. Часть 1 (2/4): Управление файлами и директориями](https://habrahabr.ru/post/99291/)
+8. [Основы Linux от основателя Gentoo. Часть 2 (5/5): Модули ядра](https://habrahabr.ru/post/107981/)
+9. [Основы Linux от основателя Gentoo. Часть 4 (1/4): Файловые системы, разделы и блочные устройства](https://habrahabr.ru/post/116907/)
+10. [Основы Linux от основателя Gentoo. Часть 3 (1/4): Документация](https://habrahabr.ru/post/108764/)
 
 ## OOP: Inheritance
 1. [Порядок разрешения методов в Python](https://habrahabr.ru/post/62203/)
