@@ -31,6 +31,10 @@
 ## ORM
 1. [Готовим Django ORM](https://www.youtube.com/watch?v=nYzJsR7mW1s)
 
+## Git
+1. [Git How To: Guided Git Tutorial](https://githowto.com/)
+2. [Волшебство Git](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru/index.html)
+
 ## Initial VPS setup
 1. [Initial Server Setup with Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-14-04)
 2. [How To Deploy a Local Django App to a VPS](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-local-django-app-to-a-vps)
