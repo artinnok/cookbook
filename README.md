@@ -18,5 +18,8 @@
 ## HTTP
 1. [High Performance Browser Networking](https://hpbn.co/)
 
+## ORM
+1. [Готовим Django ORM](https://www.youtube.com/watch?v=nYzJsR7mW1s)
+
 ## OOP: Inheritance
 1. [Порядок разрешения методов в Python](https://habrahabr.ru/post/62203/)
