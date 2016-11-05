@@ -6,6 +6,7 @@
 
 ## Best practices
 1. [The Twelve-Factor App](https://12factor.net/)
+2. [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
 
 ## Context managers
 1. [Python with Context Managers](http://jeffknupp.com/blog/2016/03/07/python-with-context-managers/)
