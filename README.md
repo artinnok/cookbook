@@ -46,6 +46,11 @@
 ## Python 2.7 vs Python 3.4
 1. [The key differences between Python 2.7.x and Python 3.x with examples](http://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html#for-loop-variables-and-the-global-namespace-leak)
 
+## REST API
+1. [Best practices for REST API design](https://srikanthsombhatla.wordpress.com/2015/12/29/best-practices-for-rest-api-design/)
+2. [10 Best Practices for Better RESTful API](http://blog.mwaysolutions.com/2014/06/05/10-best-practices-for-better-restful-api/)
+3. [http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api#requirements](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api#requirements)
+
 ## Linux / bash
 1. [Основы Linux от основателя Gentoo. Часть 1 (1/4): BASH, основы навигации](https://habrahabr.ru/post/99041/)
 2. [Основы Linux от основателя Gentoo. Часть 2 (1/5): Регулярные выражения](https://habrahabr.ru/post/102442/)
