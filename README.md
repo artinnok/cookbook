@@ -66,5 +66,8 @@
 9. [Основы Linux от основателя Gentoo. Часть 3 (1/4): Документация](https://habrahabr.ru/post/108764/)
 10. [Основы Linux от основателя Gentoo. Часть 4 (1/4): Файловые системы, разделы и блочные устройства](https://habrahabr.ru/post/116907/) 
 
+## Other
+1. [Python 3 ports list](http://python3wos.appspot.com/)
+
 ## OOP: Inheritance
 1. [Порядок разрешения методов в Python](https://habrahabr.ru/post/62203/)
