@@ -10,6 +10,14 @@
 
 ## Books
 1. [A Byte of Python](http://wombat.org.ua/AByteOfPython/#a-byte-of-python)
+2. [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
+
+## Django optimization
+1. [Very, Very Fast Django](http://thebuild.com/presentations/fast-django-djangocon-eu-2014.pdf)
+
+## Train
+1. [Code Wars](https://www.codewars.com/?language=python)
+2. [CheckIO - online game for Python and JavaScript coders](checkio.org)
 
 ## Tips and Tricks
 1. [http://theasder.github.io/python/2016/02/13/Hidden-features-of-Python.html](http://theasder.github.io/python/2016/02/13/Hidden-features-of-Python.html)
