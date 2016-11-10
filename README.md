@@ -42,6 +42,7 @@
 ## Git
 1. [Git How To: Guided Git Tutorial](https://githowto.com/)
 2. [Волшебство Git](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru/index.html)
+3. [git rebase: порядок в локальных ветках](http://tonyganch.com/git/rebase/)
 
 ## Initial VPS setup
 1. [Initial Server Setup with Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-14-04)
