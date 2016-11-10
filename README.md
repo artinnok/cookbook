@@ -85,6 +85,8 @@
 ## Other
 1. [Python 3 ports list](http://python3wos.appspot.com/)
 2. [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](http://joelonsoftware.com/articles/Unicode.html)
+3. [Руководство по магическим методам в Питоне](https://habrahabr.ru/post/186608/)
+4. [Некоторые возможности Python о которых вы возможно не знали](https://habrahabr.ru/post/196382/)
 
 ## SSH
 1. [SSH для частого использования](https://habrahabr.ru/post/39116/)
