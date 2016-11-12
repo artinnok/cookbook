@@ -43,6 +43,8 @@
 1. [Git How To: Guided Git Tutorial](https://githowto.com/)
 2. [Волшебство Git](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru/index.html)
 3. [git rebase: порядок в локальных ветках](http://tonyganch.com/git/rebase/)
+4. [Git: наглядная справка](http://marklodato.github.io/visual-git-guide/index-ru.html)
+5. [Машина времени в git из песочницы](https://habrahabr.ru/post/157175/)
 
 ## Initial VPS setup
 1. [Initial Server Setup with Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-14-04)
@@ -58,6 +60,9 @@
 
 ## Python magic methods
 1. [magic methods](http://www.rafekettler.com/magicmethods.html)
+
+## Duck Typing
+1. [Duck Typing in Python](http://www.voidspace.org.uk/python/articles/duck_typing.shtml)
 
 ## XPath
 1. [XPath tutorial](http://www.zvon.org/comp/r/tut-XPath_1.html)
