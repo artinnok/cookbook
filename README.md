@@ -99,5 +99,9 @@
 ## Descriptors
 1. [Руководство к дескрипторам](https://habrahabr.ru/post/122082/)
 
+## VPN
+1. [How to Setup OpenVPN on Ubuntu 14.04](http://grantcurell.com/2014/07/22/setting-up-a-vpn-server-on-ubuntu-14-04/)
+2. [OpenVPN](https://help.ubuntu.com/lts/serverguide/openvpn)
+
 ## OOP: Inheritance
 1. [Порядок разрешения методов в Python](https://habrahabr.ru/post/62203/)
