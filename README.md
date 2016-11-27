@@ -101,7 +101,8 @@
 
 ## VPN
 1. [How to Setup OpenVPN on Ubuntu 14.04](http://grantcurell.com/2014/07/22/setting-up-a-vpn-server-on-ubuntu-14-04/)
-2. [OpenVPN](https://help.ubuntu.com/lts/serverguide/openvpn)
+2. [OpenVPN](https://help.ubuntu.com/14.04/serverguide/openvpn.html)
+3. [How To Set Up an OpenVPN Server on Debian 8](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-debian-8)
 
 ## OOP: Inheritance
 1. [Порядок разрешения методов в Python](https://habrahabr.ru/post/62203/)
