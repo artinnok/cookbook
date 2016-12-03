@@ -96,6 +96,10 @@
 ## SSH
 1. [SSH для частого использования](https://habrahabr.ru/post/39116/)
 
+## PostgreSQL
+1. [DBA1 Администрирование PostgreSQL](https://www.youtube.com/watch?v=h_GdEaF1Ymc&list=PLaFqU3KCWw6KzGwUubZm-9-vKsi6vh5qC)
+2. [DBA2 Продвинутое администрирование PostgreSQL](https://www.youtube.com/watch?v=iODeKnTD1kA&list=PLaFqU3KCWw6JgufXBiW4dEB2-tDpmOXPH)
+
 ## Descriptors
 1. [Руководство к дескрипторам](https://habrahabr.ru/post/122082/)
 
