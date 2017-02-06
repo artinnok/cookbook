@@ -108,5 +108,8 @@
 2. [OpenVPN](https://help.ubuntu.com/14.04/serverguide/openvpn.html)
 3. [How To Set Up an OpenVPN Server on Debian 8](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-debian-8)
 
+## grep 
+1. [grep для начинающих](http://ashep.org/2010/o-grep-dlya-nachinayushhix/#.WJiGZfF957N)
+
 ## OOP: Inheritance
 1. [Порядок разрешения методов в Python](https://habrahabr.ru/post/62203/)
