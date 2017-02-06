@@ -86,6 +86,7 @@
 8. [Основы Linux от основателя Gentoo. Часть 2 (5/5): Модули ядра](https://habrahabr.ru/post/107981/)
 9. [Основы Linux от основателя Gentoo. Часть 3 (1/4): Документация](https://habrahabr.ru/post/108764/)
 10. [Основы Linux от основателя Gentoo. Часть 4 (1/4): Файловые системы, разделы и блочные устройства](https://habrahabr.ru/post/116907/) 
+11. [Команды Linux, о которых нужно знать каждому линуксоиду](http://www.ipmnet.ru/~sadilina/Fedora/1b.html)
 
 ## Other
 1. [Python 3 ports list](http://python3wos.appspot.com/)
