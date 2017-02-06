@@ -111,5 +111,8 @@
 ## grep 
 1. [grep для начинающих](http://ashep.org/2010/o-grep-dlya-nachinayushhix/#.WJiGZfF957N)
 
+## load average
+1. [CPU Load: когда начинать волноваться?](https://habrahabr.ru/post/216827/)
+
 ## OOP: Inheritance
 1. [Порядок разрешения методов в Python](https://habrahabr.ru/post/62203/)
