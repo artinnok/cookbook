@@ -113,6 +113,7 @@
 
 ## load average
 1. [CPU Load: когда начинать волноваться?](https://habrahabr.ru/post/216827/)
+2. [Что такое Load Average и какую информацию он несет](https://interface31.ru/tech_it/2016/06/linux-nachinayushhim-chto-takoe-load-average-i-kakuyu-informaciyu-on-neset.html)
 
 ## OOP: Inheritance
 1. [Порядок разрешения методов в Python](https://habrahabr.ru/post/62203/)
