@@ -111,6 +111,7 @@
 
 ## grep 
 1. [grep для начинающих](http://ashep.org/2010/o-grep-dlya-nachinayushhix/#.WJiGZfF957N)
+2. [Пара полезных команд, которые могут пригодиться при DDoS и не только](https://habrahabr.ru/post/236771/)
 
 ## load average
 1. [CPU Load: когда начинать волноваться?](https://habrahabr.ru/post/216827/)
