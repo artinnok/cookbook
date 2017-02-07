@@ -58,3 +58,7 @@
 1. [Best practices for REST API design](https://srikanthsombhatla.wordpress.com/2015/12/29/best-practices-for-rest-api-design/)
 2. [10 Best Practices for Better RESTful API](http://blog.mwaysolutions.com/2014/06/05/10-best-practices-for-better-restful-api/)
 3. [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+
+
+## OOP: Inheritance
+1. [Порядок разрешения методов в Python](https://habrahabr.ru/post/62203/)
