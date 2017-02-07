@@ -60,3 +60,6 @@
 
 ## Threads and proccesses
 1. [Потоки vs процессы](http://www.cyberforum.ru/blogs/18334/blog310.html)
+
+## Redis
+1. [The Little Redis Book](http://adm-lib.ru/books/10/Little-Redis-Book.pdf)
