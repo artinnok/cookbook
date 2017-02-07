@@ -14,10 +14,6 @@
 2. [CheckIO - online game for Python and JavaScript coders](checkio.org)
 
 
-## Threads and proccesses
-1. [Потоки vs процессы](http://www.cyberforum.ru/blogs/18334/blog310.html)
-
-
 ## Design patterns
 1. [python patterns](https://github.com/faif/python-patterns)
 
