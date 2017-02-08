@@ -23,5 +23,10 @@ https://seoinar.com.ua/seo-articles/snippet.html - SEOinar.com.ua](https://seoin
 1. [Как устроен мир семантической микроразметки](https://habrahabr.ru/company/yandex/blog/211638/)
 
 
+## Анализ сайта
+1. [Анализ сайта](http://pr-cy.ru/analysis/)
+2. [Анализ сайта](http://analiz-saita.net/)
+
+
 ## Сторонние специалисты
 1. [Директ от Глухова наповал](https://xn-----8kchedhxtn4ads4act8a.xn--p1ai/?yclid=301030172514059821)
