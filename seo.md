@@ -30,3 +30,6 @@ https://seoinar.com.ua/seo-articles/snippet.html - SEOinar.com.ua](https://seoin
 
 ## Сторонние специалисты
 1. [Директ от Глухова наповал](https://xn-----8kchedhxtn4ads4act8a.xn--p1ai/?yclid=301030172514059821)
+
+## Яндекс Директ
+1. [Как разместить рекламу в Директе](https://yandex.ru/adv/edu/direct-start)
