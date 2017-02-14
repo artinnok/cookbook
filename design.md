@@ -16,3 +16,8 @@
 ## Ховеры
 1. [Hover Effect Ideas](https://tympanus.net/Development/HoverEffectIdeas/index.html)
 2. [Caption Hover Effects](https://tympanus.net/Tutorials/CaptionHoverEffects/index3.html)
+
+## Сайты
+1. [Bare Bones Broth](https://www.barebonesbroth.com/)
+2. [Brdr Kruger](https://brdr-kruger.com/en)
+3. [Helbak Ceramics](http://www.helbak.com/)
