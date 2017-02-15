@@ -30,6 +30,8 @@
 ## Generators
 1. [What does the “yield” keyword do?](http://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do?noredirect=1&lq=1)
 
+## List comprehensions with lambda
+1. [Lambda With List Comprehensions](http://stackoverflow.com/a/34021333)
 
 ## Python magic methods
 1. [magic methods](http://www.rafekettler.com/magicmethods.html)
