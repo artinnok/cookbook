@@ -7,10 +7,14 @@
 ## Media 
 1. [CSS3 медиа запросы](https://html5book.ru/css3-mediazaprosy/)
 
-## Screen resolution
 
+## Screen resolution
 1. [What is my screen resolution](http://www.whatismyscreenresolution.com/)
 
 
 ## Generators
 1. [CSS Triangle Generator](http://triangle.designyourcode.io/)
+
+
+## Other
+1. [Геометрические фигуры на CSS](https://habrahabr.ru/post/126207/)
