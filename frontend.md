@@ -18,3 +18,8 @@
 
 ## Other
 1. [Геометрические фигуры на CSS](https://habrahabr.ru/post/126207/)
+
+
+## Email
+1. [Верстка email рассылок от А до Я для чайников](https://habrahabr.ru/post/252279/)
+2. [CSS inliner](https://inliner.cm/)
