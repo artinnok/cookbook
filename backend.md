@@ -12,6 +12,7 @@
 
 ## Tips and Tricks
 1. [10 скрытых фич Python](http://theasder.github.io/python/2016/02/13/Hidden-features-of-Python.html)
+2. [Пользовательские атрибуты в Python](https://habrahabr.ru/post/137415/)
 
 
 ## Context managers
@@ -51,6 +52,7 @@
 2. [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](http://joelonsoftware.com/articles/Unicode.html)
 3. [Руководство по магическим методам в Питоне](https://habrahabr.ru/post/186608/)
 4. [Некоторые возможности Python о которых вы возможно не знали](https://habrahabr.ru/post/196382/)
+5. [Intermediate Python](http://book.pythontips.com/en/latest/)
 
 
 ## Descriptors
