@@ -7,6 +7,7 @@
 
 ## Django optimization
 1. [Very, Very Fast Django](http://thebuild.com/presentations/fast-django-djangocon-eu-2014.pdf)
+2. [Django performance tips](https://jacobian.org/writing/django-performance-tips/)
 
 
 ## Tips and Tricks
