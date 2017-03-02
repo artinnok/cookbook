@@ -13,6 +13,7 @@ https://seoinar.com.ua/seo-articles/snippet.html - SEOinar.com.ua](https://seoin
 
 ## Общие советы
 1. [Что влияет на продвижение сайта в поисковых системах](http://alextop.ru/sovets/95-prodvizhenie)
+2. [Оптимизация сайта своими руками](http://lpgenerator.ru/blog/2014/09/08/optimizaciya-sajta-svoimi-rukami-polnyj-chek-list-po-seo-zadacham/)
 
 
 ## Вордстат
