@@ -28,3 +28,4 @@
 2. [Brdr Kruger](https://brdr-kruger.com/en)
 3. [Helbak Ceramics](http://www.helbak.com/)
 4. [YoGadget](http://yogadget.ru/)
+5. [Трио](http://mytrio.ru/choice/)
