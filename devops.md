@@ -15,6 +15,7 @@
 ## Docker
 1. [Как жить с Docker, или почему лучше с ним, чем без него?](https://habrahabr.ru/post/250469/)
 2. [Поняв Docker](https://habrahabr.ru/post/277699/)
+3. [Понимая Docker](https://habrahabr.ru/post/253877/)
 
 
 ## Initial VPS setup
