@@ -12,6 +12,10 @@
 5. [Машина времени в git из песочницы](https://habrahabr.ru/post/157175/)
 
 
+## Docker
+1. [Как жить с Docker, или почему лучше с ним, чем без него?](https://habrahabr.ru/post/250469/)
+
+
 ## Initial VPS setup
 1. [Initial Server Setup with Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-14-04)
 2. [How To Deploy a Local Django App to a VPS](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-local-django-app-to-a-vps)
