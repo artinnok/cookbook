@@ -22,7 +22,8 @@
 
 
 # Unit testing
-1. [Python уроки: тестирование с помощью unittest](https://pynsk.ru/blog/2016/02/11/unit-test/)
+1. [An Introduction to Mocking in Python](https://www.toptal.com/python/an-introduction-to-mocking-in-python)
+2. [Python уроки: тестирование с помощью unittest](https://pynsk.ru/blog/2016/02/11/unit-test/)
 
 ## ORM
 1. [Готовим Django ORM](https://www.youtube.com/watch?v=nYzJsR7mW1s)
