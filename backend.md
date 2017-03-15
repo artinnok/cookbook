@@ -21,6 +21,9 @@
 3. [Python: сложные аспекты](http://hlabs.org/development/python/pro_python.html)
 
 
+# Unit testing
+1. [Python уроки: тестирование с помощью unittest](https://pynsk.ru/blog/2016/02/11/unit-test/)
+
 ## ORM
 1. [Готовим Django ORM](https://www.youtube.com/watch?v=nYzJsR7mW1s)
 
