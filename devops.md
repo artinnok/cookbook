@@ -18,6 +18,7 @@
 3. [Поняв Docker](https://habrahabr.ru/post/277699/)
 4. [Configuring and Running Django + Celery in Docker Containers](https://www.syncano.io/blog/configuring-running-django-celery-docker-containers-pt-1/)
 5. [Django Development With Docker Compose and Machine](https://realpython.com/blog/python/django-development-with-docker-compose-and-machine/)
+6. [Deploy Django, Gunicorn, NGINX, Postgresql using Docker](http://ruddra.com/2016/08/14/docker-django-nginx-postgres/)
 
 
 ## Initial VPS setup
