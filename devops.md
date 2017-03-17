@@ -14,8 +14,9 @@
 
 ## Docker
 1. [Как жить с Docker, или почему лучше с ним, чем без него?](https://habrahabr.ru/post/250469/)
-2. [Поняв Docker](https://habrahabr.ru/post/277699/)
-3. [Понимая Docker](https://habrahabr.ru/post/253877/)
+2. [Понимая Docker](https://habrahabr.ru/post/253877/)
+3. [Поняв Docker](https://habrahabr.ru/post/277699/)
+4. [Configuring and Running Django + Celery in Docker Containers](https://www.syncano.io/blog/configuring-running-django-celery-docker-containers-pt-1/)
 
 
 ## Initial VPS setup
