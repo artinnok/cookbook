@@ -17,6 +17,7 @@
 2. [Понимая Docker](https://habrahabr.ru/post/253877/)
 3. [Поняв Docker](https://habrahabr.ru/post/277699/)
 4. [Configuring and Running Django + Celery in Docker Containers](https://www.syncano.io/blog/configuring-running-django-celery-docker-containers-pt-1/)
+5. [Django Development With Docker Compose and Machine](https://realpython.com/blog/python/django-development-with-docker-compose-and-machine/)
 
 
 ## Initial VPS setup
