@@ -23,6 +23,10 @@
 8. [Эксперименты с докерными volumes](https://ivan.bessarabov.ru/blog/docker-volumes-experiments)
 
 
+## Ansible
+1. [Ansible Quick Start](https://ryaneschinger.com/blog/ansible-quick-start/)
+
+
 ## Initial VPS setup
 1. [Initial Server Setup with Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-14-04)
 2. [How To Deploy a Local Django App to a VPS](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-local-django-app-to-a-vps)
