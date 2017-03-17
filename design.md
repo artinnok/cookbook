@@ -9,8 +9,9 @@
 ##  Стоки
 1. [Sell image](http://sell-image.com/)
 2. [pexels](https://www.pexels.com/)
-3. [unsplash](https://unsplash.com/)
+3. [unsplash - free](https://unsplash.com/)
 4. [stock up](https://www.sitebuilderreport.com/stock-up)
+5. [stocksnap - free](https://stocksnap.io/)
 
 ## Градиенты
 1. [WebGradients](https://webgradients.com/?utm_source=forwebdev&utm_medium=announcement&utm_campaign=webgradients--180-priyatnyh-gradientov-dl)
