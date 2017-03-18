@@ -25,6 +25,7 @@
 
 ## Ansible
 1. [Ansible Quick Start](https://ryaneschinger.com/blog/ansible-quick-start/)
+2. [Installing a LAMP server with Ansible playbooks and roles](http://labs.qandidate.com/blog/2013/11/21/installing-a-lamp-server-with-ansible-playbooks-and-roles/)
 
 
 ## Initial VPS setup
