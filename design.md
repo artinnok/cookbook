@@ -30,3 +30,8 @@
 3. [Helbak Ceramics](http://www.helbak.com/)
 4. [YoGadget](http://yogadget.ru/)
 5. [Трио](http://mytrio.ru/choice/)
+6. [Калуга астрал](http://hr.astralnalog.ru/)
+7. [Layer](https://layer.com/)
+8. [Syncano](https://www.syncano.io/)
+9. [Adverti](https://adverti.io/)
+10. [Cole Jackowski](http://colejackowski.com/)
