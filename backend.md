@@ -26,8 +26,9 @@
 2. [Python уроки: тестирование с помощью unittest](https://pynsk.ru/blog/2016/02/11/unit-test/)
 
 ## Debugging
-1. [Python. Отладка при помощи pdb](http://adw0rd.com/2012/10/7/python-pdb/)
-2. [pdb – Интерактивный отладчик](https://habrahabr.ru/post/104086/)
+1. [pdb](https://docs.python.org/3/library/pdb.html)
+2. [Python. Отладка при помощи pdb](http://adw0rd.com/2012/10/7/python-pdb/)
+3. [pdb – Интерактивный отладчик](https://habrahabr.ru/post/104086/)
 
 ## ORM
 1. [Готовим Django ORM](https://www.youtube.com/watch?v=nYzJsR7mW1s)
