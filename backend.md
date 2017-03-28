@@ -27,6 +27,7 @@
 
 ## Debugging
 1. [Python. Отладка при помощи pdb](http://adw0rd.com/2012/10/7/python-pdb/)
+2. [pdb – Интерактивный отладчик](https://habrahabr.ru/post/104086/)
 
 ## ORM
 1. [Готовим Django ORM](https://www.youtube.com/watch?v=nYzJsR7mW1s)
