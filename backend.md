@@ -21,9 +21,12 @@
 3. [Python: сложные аспекты](http://hlabs.org/development/python/pro_python.html)
 
 
-# Unit testing
+## Unit testing
 1. [An Introduction to Mocking in Python](https://www.toptal.com/python/an-introduction-to-mocking-in-python)
 2. [Python уроки: тестирование с помощью unittest](https://pynsk.ru/blog/2016/02/11/unit-test/)
+
+## Debugging
+1. [Python. Отладка при помощи pdb](http://adw0rd.com/2012/10/7/python-pdb/)
 
 ## ORM
 1. [Готовим Django ORM](https://www.youtube.com/watch?v=nYzJsR7mW1s)
