@@ -76,6 +76,7 @@
 
 ## OOP: Inheritance
 1. [Порядок разрешения методов в Python](https://habrahabr.ru/post/62203/)
+2. [Композиция vs Наследование](https://docs.google.com/presentation/u/1/d/1l_8ELk7eDrIyeygFeAi1uNMkZf4ekFFw0zt29BvvvQo/htmlpresent?hl=ru)
 
 ## Django User model
 1. [How to Extend Django User Model](https://simpleisbetterthancomplex.com/tutorial/2016/07/22/how-to-extend-django-user-model.html)
