@@ -46,6 +46,7 @@
 
 ## Python magic methods
 1. [magic methods](http://www.rafekettler.com/magicmethods.html)
+2. [Руководство по магическим методам](https://habrahabr.ru/post/186608/)
 
 
 ## Duck Typing
