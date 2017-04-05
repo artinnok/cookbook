@@ -35,3 +35,4 @@
 8. [Syncano](https://www.syncano.io/)
 9. [Adverti](https://adverti.io/)
 10. [Cole Jackowski](http://colejackowski.com/)
+11. [AI Domains](https://whois.ai/cgi-bin/main.py)
