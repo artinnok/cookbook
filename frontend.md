@@ -23,3 +23,8 @@
 ## Email
 1. [Верстка email рассылок от А до Я для чайников](https://habrahabr.ru/post/252279/)
 2. [CSS inliner](https://inliner.cm/)
+
+## JavaScript
+1. [Learn JavaScript in Y minutes](https://learnxinyminutes.com/docs/ru-ru/javascript-ru/)
+2. [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ru/)
+3. [Библия](http://learn.javascript.ru/)
