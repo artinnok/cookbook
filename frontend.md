@@ -28,3 +28,4 @@
 1. [Learn JavaScript in Y minutes](https://learnxinyminutes.com/docs/ru-ru/javascript-ru/)
 2. [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ru/)
 3. [Библия](http://learn.javascript.ru/)
+4. [Mozilla Developer Network](https://developer.mozilla.org/ru/docs/Web/JavaScript)
