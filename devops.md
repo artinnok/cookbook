@@ -21,6 +21,7 @@
 6. [Deploy Django, Gunicorn, NGINX, Postgresql using Docker](http://ruddra.com/2016/08/14/docker-django-nginx-postgres/)
 7. [Working with Docker Volumes](https://hostpresto.com/community/tutorials/working-with-docker-volumes/)
 8. [Эксперименты с докерными volumes](https://ivan.bessarabov.ru/blog/docker-volumes-experiments)
+9. [Docker: named volumes](https://blog.amartynov.ru/docker-named-volumes/)
 
 
 ## Ansible
