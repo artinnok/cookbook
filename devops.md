@@ -22,8 +22,9 @@
 7. [Working with Docker Volumes](https://hostpresto.com/community/tutorials/working-with-docker-volumes/)
 8. [Эксперименты с докерными volumes](https://ivan.bessarabov.ru/blog/docker-volumes-experiments)
 9. [Docker: named volumes](https://blog.amartynov.ru/docker-named-volumes/)
-10. [Docker Overview](https://docs.docker.com/engine/docker-overview/#docker-engine)
-11. [Understand images, containers and storage drivers](https://docs.docker.com/engine/userguide/storagedriver/imagesandcontainers/#content-addressable-storage)
+10. [Docker Overview](https://docs.docker.com/engine/docker-overview/)
+11. [Understand images, containers and storage drivers](https://docs.docker.com/engine/userguide/storagedriver/imagesandcontainers/)
+12. [Work with networks](https://docs.docker.com/engine/userguide/networking/work-with-networks/)
 
 
 ## Ansible
