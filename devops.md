@@ -77,6 +77,9 @@
 2. [Что такое Load Average и какую информацию он несет](https://interface31.ru/tech_it/2016/06/linux-nachinayushhim-chto-takoe-load-average-i-kakuyu-informaciyu-on-neset.html)
 
 
+## screen
+1. [screen](http://itman.in/ssh-screen/)
+
 ## Threads and proccesses
 1. [Потоки vs процессы](http://www.cyberforum.ru/blogs/18334/blog310.html)
 
