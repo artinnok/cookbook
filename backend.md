@@ -75,6 +75,9 @@
 3. [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 
 
+## Threading
+1. [Лекция 11. Многопоточные вычисления.](http://ideafix.name/wp-content/uploads/2012/07/Python-11.pdf)
+
 ## OOP: Inheritance
 1. [Порядок разрешения методов в Python](https://habrahabr.ru/post/62203/)
 2. [Композиция vs Наследование](https://docs.google.com/presentation/u/1/d/1l_8ELk7eDrIyeygFeAi1uNMkZf4ekFFw0zt29BvvvQo/htmlpresent?hl=ru)
