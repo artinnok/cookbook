@@ -77,6 +77,8 @@
 
 ## Threading
 1. [Лекция 11. Многопоточные вычисления.](http://ideafix.name/wp-content/uploads/2012/07/Python-11.pdf)
+2. [Учимся писать многопоточные и многопроцессные приложения на Python](https://habrahabr.ru/post/149420/)
+3. 
 
 ## OOP: Inheritance
 1. [Порядок разрешения методов в Python](https://habrahabr.ru/post/62203/)
