@@ -63,6 +63,7 @@
 3. [Руководство по магическим методам в Питоне](https://habrahabr.ru/post/186608/)
 4. [Некоторые возможности Python о которых вы возможно не знали](https://habrahabr.ru/post/196382/)
 5. [Intermediate Python](http://book.pythontips.com/en/latest/)
+6. [Python Interface Design](https://hashedin.com/2016/12/06/python-interface-design/)
 
 
 ## Descriptors
