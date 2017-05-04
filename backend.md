@@ -81,6 +81,7 @@
 1. [Лекция 11. Многопоточные вычисления.](http://ideafix.name/wp-content/uploads/2012/07/Python-11.pdf)
 2. [Учимся писать многопоточные и многопроцессные приложения на Python](https://habrahabr.ru/post/149420/)
 3. [Python threads synchronization: Locks, RLocks, Semaphores, Conditions, Events and Queues](http://www.laurentluce.com/posts/python-threads-synchronization-locks-rlocks-semaphores-conditions-events-and-queues/)
+4. [Потоки vs процессы](http://www.cyberforum.ru/blogs/18334/blog310.html)
 
 ## OOP: Inheritance
 1. [Порядок разрешения методов в Python](https://habrahabr.ru/post/62203/)
