@@ -4,6 +4,10 @@
 1. [High Performance Browser Networking](https://hpbn.co/)
 
 
+## Attacks
+1. [Hacks Plaining](https://www.hacksplaining.com/)
+
+
 ## Git
 1. [Git How To: Guided Git Tutorial](https://githowto.com/)
 2. [Волшебство Git](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru/index.html)
@@ -80,9 +84,6 @@
 
 ## screen
 1. [screen](http://itman.in/ssh-screen/)
-
-## Threads and proccesses
-1. [Потоки vs процессы](http://www.cyberforum.ru/blogs/18334/blog310.html)
 
 ## Redis
 1. [The Little Redis Book](http://adm-lib.ru/books/10/Little-Redis-Book.pdf)
