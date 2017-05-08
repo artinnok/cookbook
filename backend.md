@@ -97,3 +97,7 @@
 
 ## Blogs
 1. [Адиль Хаштамов](https://khashtamov.com/ru/)
+
+## Django channels
+1. [Django Channels: работа с WebSocket и не только](https://khashtamov.com/ru/django-channels-websocket/)
+2. [Введение в DJANGO CHANNELS](http://www.sdblog.ru/archives/vvedenie-v-django-channels/)
