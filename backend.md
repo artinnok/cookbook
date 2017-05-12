@@ -99,5 +99,6 @@
 1. [Адиль Хаштамов](https://khashtamov.com/ru/)
 
 ## Django channels
+1. [Finally, Real-Time Django Is Here: Get Started with Django Channels](https://blog.heroku.com/in_deep_with_django_channels_the_future_of_real_time_apps_in_django)
 1. [Django Channels: работа с WebSocket и не только](https://khashtamov.com/ru/django-channels-websocket/)
 2. [Введение в DJANGO CHANNELS](http://www.sdblog.ru/archives/vvedenie-v-django-channels/)
