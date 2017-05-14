@@ -102,5 +102,5 @@
 1. [Finally, Real-Time Django Is Here: Get Started with Django Channels](https://blog.heroku.com/in_deep_with_django_channels_the_future_of_real_time_apps_in_django)
 2. [Django Channels: работа с WebSocket и не только](https://khashtamov.com/ru/django-channels-websocket/)
 3. [Введение в DJANGO CHANNELS](http://www.sdblog.ru/archives/vvedenie-v-django-channels/)
-4. [Creating a chat with Django Channels
-](https://gearheart.io/blog/creating-a-chat-with-django-channels/)
+4. [Creating a chat with Django Channels](https://gearheart.io/blog/creating-a-chat-with-django-channels/)
+5. [Getting Started With Django Channels](https://realpython.com/blog/python/getting-started-with-django-channels/#websockets-101)
