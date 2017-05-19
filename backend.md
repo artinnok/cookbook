@@ -104,3 +104,6 @@
 3. [Введение в DJANGO CHANNELS](http://www.sdblog.ru/archives/vvedenie-v-django-channels/)
 4. [Creating a chat with Django Channels](https://gearheart.io/blog/creating-a-chat-with-django-channels/)
 5. [Getting Started With Django Channels](https://realpython.com/blog/python/getting-started-with-django-channels/#websockets-101)
+
+## Late Binding
+1. [Python Late Binding and its side effect](http://www.pythonabc.com/python-late-binding-side-effect/)
