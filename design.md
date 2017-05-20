@@ -38,3 +38,5 @@
 11. [AI Domains](https://whois.ai/cgi-bin/main.py)
 12. [Flynn](https://flynn.io/)
 13. [Supergiant](https://supergiant.io/)
+14. [Fresh Flash](http://www.freshflash.su/)
+15. [Enjoy Me](https://enjoyme.ru/)
