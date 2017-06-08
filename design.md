@@ -40,3 +40,4 @@
 13. [Supergiant](https://supergiant.io/)
 14. [Fresh Flash](http://www.freshflash.su/)
 15. [Enjoy Me](https://enjoyme.ru/)
+16. [Status](https://status.im/)
