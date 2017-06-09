@@ -57,6 +57,7 @@
 9. [Основы Linux от основателя Gentoo. Часть 3 (1/4): Документация](https://habrahabr.ru/post/108764/)
 10. [Основы Linux от основателя Gentoo. Часть 4 (1/4): Файловые системы, разделы и блочные устройства](https://habrahabr.ru/post/116907/) 
 11. [Команды Linux, о которых нужно знать каждому линуксоиду](http://www.ipmnet.ru/~sadilina/Fedora/1b.html)
+12. [Bash Reference Manual](http://tiswww.case.edu/php/chet/bash/bashref.html#Introduction)
 
 
 ## SSH
