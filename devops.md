@@ -89,3 +89,6 @@
 
 ## Redis
 1. [The Little Redis Book](http://adm-lib.ru/books/10/Little-Redis-Book.pdf)
+
+## HAProxy
+1. [Введение в HAProxy и принципы распределения нагрузки](http://devacademy.ru/posts/haproxy/)
