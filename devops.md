@@ -92,3 +92,4 @@
 
 ## HAProxy
 1. [Введение в HAProxy и принципы распределения нагрузки](http://devacademy.ru/posts/haproxy/)
+2. [Load Balancing with HAProxy](https://serversforhackers.com/load-balancing-with-haproxy)
