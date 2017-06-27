@@ -1,7 +1,8 @@
 # devops
 
-## HTTP
+## HTTP / HTTPS
 1. [High Performance Browser Networking](https://hpbn.co/)
+2. [SSL Server Test](https://www.ssllabs.com/ssltest/)
 
 
 ## Attacks
