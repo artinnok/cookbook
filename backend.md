@@ -75,7 +75,10 @@
 1. [Best practices for REST API design](https://srikanthsombhatla.wordpress.com/2015/12/29/best-practices-for-rest-api-design/)
 2. [10 Best Practices for Better RESTful API](http://blog.mwaysolutions.com/2014/06/05/10-best-practices-for-better-restful-api/)
 3. [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
-
+4. [Slate - API docs builder](https://github.com/lord/slate)
+5. [APIary - API docs builder](https://apiary.io/)
+6. [ReDoc - API docs builder (Swagger wrapper)](https://github.com/Rebilly/ReDoc)
+7. [Swagger - API docs builder](https://smartbear.com/connect-2017/swagger/)
 
 ## Threading
 1. [Лекция 11. Многопоточные вычисления.](http://ideafix.name/wp-content/uploads/2012/07/Python-11.pdf)
