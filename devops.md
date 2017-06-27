@@ -33,6 +33,7 @@
 11. [Understand images, containers and storage drivers](https://docs.docker.com/engine/userguide/storagedriver/imagesandcontainers/)
 12. [Work with networks](https://docs.docker.com/engine/userguide/networking/work-with-networks/)
 13. [Docker, why I prefer Alpine as base instead of Ubuntu](https://coderwall.com/p/s4ofoq/docker-why-i-prefer-alpine-as-base-instead-of-ubuntu)
+14. [SET HTTPS IN NGINX RUNNING IN A DOCKER CONTAINER AND UPDATE CERTS FROM JENKINS](http://equinox.one/blog/2016/11/03/set-https-in-nginx-running-in-docker-container-and-update-certs-from-jenkins/)
 
 
 ## Ansible
