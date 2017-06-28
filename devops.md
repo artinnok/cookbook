@@ -72,6 +72,7 @@
 ## PostgreSQL
 1. [DBA1 Администрирование PostgreSQL](https://www.youtube.com/watch?v=h_GdEaF1Ymc&list=PLaFqU3KCWw6KzGwUubZm-9-vKsi6vh5qC)
 2. [DBA2 Продвинутое администрирование PostgreSQL](https://www.youtube.com/watch?v=iODeKnTD1kA&list=PLaFqU3KCWw6JgufXBiW4dEB2-tDpmOXPH)
+3. [Use the Index, Luke](http://use-the-index-luke.com/)
 
 
 ## VPN
