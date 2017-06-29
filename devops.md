@@ -35,6 +35,7 @@
 13. [Docker, why I prefer Alpine as base instead of Ubuntu](https://coderwall.com/p/s4ofoq/docker-why-i-prefer-alpine-as-base-instead-of-ubuntu)
 14. [Set HTTPS in Ngin running in a Docker container and update certs from Jenkins](http://equinox.one/blog/2016/11/03/set-https-in-nginx-running-in-docker-container-and-update-certs-from-jenkins/)
 15. [Enabling SSL with Let's Encrypt, NGINX and Docker](https://reprage.com/post/SSL-with-letsencrypt-nginx-and-docker)
+16. [How to run a cron job inside a docker container?](https://stackoverflow.com/questions/37458287/how-to-run-a-cron-job-inside-a-docker-container)
 
 
 ## Ansible
