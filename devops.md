@@ -103,3 +103,8 @@
 1. [Введение в HAProxy и принципы распределения нагрузки](http://devacademy.ru/posts/haproxy/)
 2. [Load Balancing with HAProxy](https://serversforhackers.com/load-balancing-with-haproxy)
 3. [Балансировка нагрузки с помощью HAProxy](https://community.vscale.io/hc/ru/community/posts/211926465-%D0%91%D0%B0%D0%BB%D0%B0%D0%BD%D1%81%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0-%D0%BD%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8-%D1%81-%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C%D1%8E-HAProxy)
+
+## ELK
+1. [Собираем, парсим и отдаём логи с помощью Logstash](https://habrahabr.ru/post/165059/)
+2. [Сервер логов Elasticsearch + Logstash + Kibana4 + Beats(windows/linux). Установка и настройка](https://habrahabr.ru/post/277029/)
+3. [Просмотр архивных логов apache c помощью Logstash+Elastisearch+Kibanа](https://habrahabr.ru/post/166251/)
