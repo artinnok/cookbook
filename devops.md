@@ -37,6 +37,10 @@
 15. [Enabling SSL with Let's Encrypt, NGINX and Docker](https://reprage.com/post/SSL-with-letsencrypt-nginx-and-docker)
 16. [How to run a cron job inside a docker container?](https://stackoverflow.com/questions/37458287/how-to-run-a-cron-job-inside-a-docker-container)
 17. [Run a cron job with Docker](https://www.ekito.fr/people/run-a-cron-job-with-docker/)
+18. [Use NGINX As A Reverse Proxy To Your Containerized Docker Applications](https://www.thepolyglotdeveloper.com/2017/03/nginx-reverse-proxy-containerized-docker-applications/)
+19. [NGINX as a Reverse Proxy for Docker Swarm Clusters](https://blog.codeship.com/nginx-reverse-proxy-docker-swarm-clusters/)
+20. [Advanced Docker Compose Configuration](https://runnable.com/docker/advanced-docker-compose-configuration)
+21. [Run Multiple Docker Environments (qa, stage, prod) from the Same docker-compose File.](http://staxmanade.com/2016/07/run-multiple-docker-environments--qa--beta--prod--from-the-same-docker-compose-file-/)
 
 
 ## Ansible
