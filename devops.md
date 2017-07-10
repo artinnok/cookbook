@@ -113,3 +113,5 @@
 1. [Собираем, парсим и отдаём логи с помощью Logstash](https://habrahabr.ru/post/165059/)
 2. [Сервер логов Elasticsearch + Logstash + Kibana4 + Beats(windows/linux). Установка и настройка](https://habrahabr.ru/post/277029/)
 3. [Просмотр архивных логов apache c помощью Logstash+Elastisearch+Kibanа](https://habrahabr.ru/post/166251/)
+4. [Parsing Logs Using Logstash](https://qbox.io/blog/parsing-logs-using-logstash)
+5. [Grok Debugger](http://grokdebug.herokuapp.com/)
