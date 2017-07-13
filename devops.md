@@ -80,6 +80,7 @@
 2. [DBA2 Продвинутое администрирование PostgreSQL](https://www.youtube.com/watch?v=iODeKnTD1kA&list=PLaFqU3KCWw6JgufXBiW4dEB2-tDpmOXPH)
 3. [Use the Index, Luke](http://use-the-index-luke.com/)
 4. [Database Answers](http://www.databaseanswers.org/data_models/)
+5. [Логирование в PostgreSQL](https://miholeus.com/webdev/logirovanie-v-postgresql.html)
 
 
 ## VPN
