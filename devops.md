@@ -54,6 +54,7 @@
 3. [How To Install and Configure Django with Postgres, Nginx, and Gunicorn](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-django-with-postgres-nginx-and-gunicorn)
 4. [Django + Python3 + Nginx + Gunicorn + DO](http://djbook.ru/examples/62/)
 5. [How To Add Swap on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-add-swap-on-ubuntu-14-04)
+6. [системные настройки высоконагруженного сервера](https://www.prolinux.org/post/nastroyki-nagruzhennogo-servera/)
 
 
 ## Linux / bash 
