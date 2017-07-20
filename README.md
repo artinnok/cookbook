@@ -25,3 +25,4 @@
 ## Blogs
 1. [lexev.org - записи python разработчика](http://www.lexev.org/)
 2. [Персональный блок Адиля Хаштамова](https://khashtamov.com/ru/)
+3. [Aleksey Martynov's Blog](https://blog.amartynov.ru/)
