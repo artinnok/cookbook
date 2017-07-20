@@ -20,3 +20,7 @@
 
 ## XPath
 1. [XPath tutorial](http://www.zvon.org/comp/r/tut-XPath_1.html)
+
+
+## Blogs
+1. [lexev.org - записи python разработчика](http://www.lexev.org/)
