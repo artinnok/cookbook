@@ -111,3 +111,6 @@
 
 ## Late Binding
 1. [Python Late Binding and its side effect](http://www.pythonabc.com/python-late-binding-side-effect/)
+
+# Async
+1. [In Which We Begin at the Beginning](http://krondo.com/in-which-we-begin-at-the-beginning/)
