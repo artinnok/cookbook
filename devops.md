@@ -121,3 +121,4 @@
 
 ## Other
 1. [Pro Linux](https://www.prolinux.org/)
+2. [10 Common Software Architectural Patterns in a nutshell](https://medium.com/towards-data-science/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
