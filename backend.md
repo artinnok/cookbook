@@ -118,3 +118,4 @@
 3. [Concurrency vs Multi-threading vs Asynchronous Programming : Explained](https://codewala.net/2015/07/29/concurrency-vs-multi-threading-vs-asynchronous-programming-explained/)
 4. [gevent For the Working Python Developer](http://sdiehl.github.io/gevent-tutorial/#introduction)
 5. [AsyncIO для практикующего python-разработчика](https://habrahabr.ru/post/337420/)
+6. [Немного фактов о python asyncio](https://habrahabr.ru/post/314606/)
