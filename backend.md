@@ -112,7 +112,9 @@
 ## Late Binding
 1. [Python Late Binding and its side effect](http://www.pythonabc.com/python-late-binding-side-effect/)
 
-# Async
+## Async
 1. [In Which We Begin at the Beginning](http://krondo.com/in-which-we-begin-at-the-beginning/)
 2. [Slow Poetry and the Apocalypse](http://krondo.com/slow-poetry-and-the-apocalypse/)
 3. [Concurrency vs Multi-threading vs Asynchronous Programming : Explained](https://codewala.net/2015/07/29/concurrency-vs-multi-threading-vs-asynchronous-programming-explained/)
+4. [gevent For the Working Python Developer](http://sdiehl.github.io/gevent-tutorial/#introduction)
+5. [AsyncIO для практикующего python-разработчика](https://habrahabr.ru/post/337420/)
