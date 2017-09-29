@@ -18,6 +18,7 @@
 
 ## Other
 1. [Геометрические фигуры на CSS](https://habrahabr.ru/post/126207/)
+2. [V8 под капотом](https://habrahabr.ru/company/jugru/blog/338930/)
 
 
 ## Email
