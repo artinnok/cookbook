@@ -66,6 +66,7 @@
 5. [Intermediate Python](http://book.pythontips.com/en/latest/)
 6. [Python Interface Design](https://hashedin.com/2016/12/06/python-interface-design/)
 7. [Designing Modules in Python](https://hashedin.com/training/DesigningModulesInPython-v1.0.pdf)
+8. [V8 под капотом](https://habrahabr.ru/company/jugru/blog/338930/)
 
 
 ## Descriptors
