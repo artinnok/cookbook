@@ -124,3 +124,9 @@
 2. [10 Common Software Architectural Patterns in a nutshell](https://medium.com/towards-data-science/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 3. [Optimizing web servers for high throughput and low latency](https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/)
 4. [Buggy Python Code: The 10 Most Common Mistakes That Python Developers Make](https://www.toptal.com/python/top-10-mistakes-that-python-programmers-make)
+
+## Gitlab CI
+1. [Registering Runners ](http://docs.gitlab.com/runner/register/index.html)
+2. [Executors](http://docs.gitlab.com/runner/executors/README.html)
+3. [Using SSH keys ](https://docs.gitlab.com/ee/ci/ssh_keys/README.html)
+4. [Using Docker Build ](https://docs.gitlab.com/ce/ci/docker/using_docker_build.html)
