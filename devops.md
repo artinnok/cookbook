@@ -131,3 +131,4 @@
 3. [Using SSH keys ](https://docs.gitlab.com/ee/ci/ssh_keys/README.html)
 4. [Using Docker Build ](https://docs.gitlab.com/ce/ci/docker/using_docker_build.html)
 5. [GitLab Runner Commands](https://docs.gitlab.com/runner/commands/README.html)
+6. [Using Docker images](https://docs.gitlab.com/ce/ci/docker/using_docker_images.html)
