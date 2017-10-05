@@ -41,6 +41,7 @@
 19. [NGINX as a Reverse Proxy for Docker Swarm Clusters](https://blog.codeship.com/nginx-reverse-proxy-docker-swarm-clusters/)
 20. [Advanced Docker Compose Configuration](https://runnable.com/docker/advanced-docker-compose-configuration)
 21. [Run Multiple Docker Environments (qa, stage, prod) from the Same docker-compose File.](http://staxmanade.com/2016/07/run-multiple-docker-environments--qa--beta--prod--from-the-same-docker-compose-file-/)
+22. [Docker RUN vs CMD vs ENTRYPOINT](http://goinbigdata.com/docker-run-vs-cmd-vs-entrypoint/)
 
 
 ## Ansible
