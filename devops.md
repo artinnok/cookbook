@@ -42,6 +42,7 @@
 20. [Advanced Docker Compose Configuration](https://runnable.com/docker/advanced-docker-compose-configuration)
 21. [Run Multiple Docker Environments (qa, stage, prod) from the Same docker-compose File.](http://staxmanade.com/2016/07/run-multiple-docker-environments--qa--beta--prod--from-the-same-docker-compose-file-/)
 22. [Docker RUN vs CMD vs ENTRYPOINT](http://goinbigdata.com/docker-run-vs-cmd-vs-entrypoint/)
+23. [About images, containers, and storage drivers](https://docs.docker.com/engine/userguide/storagedriver/imagesandcontainers/#images-and-layers)
 
 
 ## Ansible
