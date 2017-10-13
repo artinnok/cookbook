@@ -5,9 +5,10 @@
 2. [Django code style](https://docs.djangoproject.com/en/1.10/internals/contributing/writing-code/coding-style/)
 
 
-## Django optimization
+## Django and Python optimization
 1. [Very, Very Fast Django](http://thebuild.com/presentations/fast-django-djangocon-eu-2014.pdf)
 2. [Django performance tips](https://jacobian.org/writing/django-performance-tips/)
+3. [Performance Tips](https://wiki.python.org/moin/PythonSpeed/PerformanceTips)
 
 
 ## Tips and Tricks
