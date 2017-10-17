@@ -17,6 +17,7 @@
 5. [Машина времени в git из песочницы](https://habrahabr.ru/post/157175/)
 6. [Удачная модель ветвления для Git](https://habrahabr.ru/post/106912/)
 7. [Как правильно отправить релиз на git?](https://ru.stackoverflow.com/questions/573743/%D0%9A%D0%B0%D0%BA-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE-%D0%BE%D1%82%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D1%8C-%D1%80%D0%B5%D0%BB%D0%B8%D0%B7-%D0%BD%D0%B0-git)
+8. [Merging vs. Rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
 
 
 ## Docker
