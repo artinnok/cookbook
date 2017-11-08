@@ -30,3 +30,5 @@
 2. [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ru/)
 3. [Библия](http://learn.javascript.ru/)
 4. [Mozilla Developer Network](https://developer.mozilla.org/ru/docs/Web/JavaScript)
+5. [Всплытие и перехват](https://learn.javascript.ru/event-bubbling)
+6. [Делегирование событий](https://learn.javascript.ru/event-delegation)
