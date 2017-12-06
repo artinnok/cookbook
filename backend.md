@@ -67,6 +67,7 @@
 5. [Intermediate Python](http://book.pythontips.com/en/latest/)
 6. [Python Interface Design](https://hashedin.com/2016/12/06/python-interface-design/)
 7. [Designing Modules in Python](https://hashedin.com/training/DesigningModulesInPython-v1.0.pdf)
+8. [How to Deploy Python WSGI Apps Using Gunicorn HTTP Server Behind Nginx](https://www.digitalocean.com/community/tutorials/how-to-deploy-python-wsgi-apps-using-gunicorn-http-server-behind-nginx)
 
 
 ## Descriptors
