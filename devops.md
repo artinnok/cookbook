@@ -76,6 +76,10 @@
 12. [Bash Reference Manual](http://tiswww.case.edu/php/chet/bash/bashref.html#Introduction)
 
 
+## FTP
+1. [How To Set Up vsftpd for a User's Directory on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-vsftpd-for-a-user-s-directory-on-ubuntu-16-04)
+
+
 ## SSH
 1. [SSH для частого использования](https://habrahabr.ru/post/39116/)
 
