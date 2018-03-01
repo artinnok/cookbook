@@ -7,6 +7,7 @@
 ## Books
 1. [A Byte of Python](http://wombat.org.ua/AByteOfPython/#a-byte-of-python)
 2. [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
+3. [Python Tips](http://book.pythontips.com/en/latest/index.html)
 
 
 ## Train
