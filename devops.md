@@ -87,6 +87,7 @@
 
 ## Nginx
 1. [Nginx — static file serving confusion with root & alias](https://stackoverflow.com/questions/10631933/nginx-static-file-serving-confusion-with-root-alias)
+2. [Основы клиентского кэширования понятными словами и на примерах. Last-modified, Etag, Expires, Cache-control: max-age и другие заголовки](http://html5.by/blog/cache/)
 
 ## PostgreSQL
 1. [DBA1 Администрирование PostgreSQL](https://www.youtube.com/watch?v=h_GdEaF1Ymc&list=PLaFqU3KCWw6KzGwUubZm-9-vKsi6vh5qC)
