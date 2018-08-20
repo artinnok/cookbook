@@ -91,6 +91,7 @@
 3. [Учебное пособие по кэшированию, часть 1](https://habr.com/post/203548/)
 4. [Учебное пособие по кэшированию, часть 2](https://habr.com/post/204464/)
 5. [HTTP Caching](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching?hl=en#cache-control)
+6. [What's the difference between Cache-Control: max-age=0 and no-cache?](https://stackoverflow.com/a/49925190/5371197)
 
 ## PostgreSQL
 1. [DBA1 Администрирование PostgreSQL](https://www.youtube.com/watch?v=h_GdEaF1Ymc&list=PLaFqU3KCWw6KzGwUubZm-9-vKsi6vh5qC)
