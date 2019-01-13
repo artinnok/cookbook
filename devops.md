@@ -45,6 +45,7 @@
 22. [Docker RUN vs CMD vs ENTRYPOINT](http://goinbigdata.com/docker-run-vs-cmd-vs-entrypoint/)
 23. [About images, containers, and storage drivers](https://docs.docker.com/engine/userguide/storagedriver/imagesandcontainers/#images-and-layers)
 24. [Use volumes](https://docs.docker.com/engine/admin/volumes/volumes/)
+25. [Post-installation steps for Linux](https://docs.docker.com/install/linux/linux-postinstall/#configure-docker-to-start-on-boot)
 
 
 ## Ansible
