@@ -15,6 +15,7 @@
 1. [10 скрытых фич Python](http://theasder.github.io/python/2016/02/13/Hidden-features-of-Python.html)
 2. [Пользовательские атрибуты в Python](https://habrahabr.ru/post/137415/)
 3. [Python Weak References](http://mindtrove.info/python-weak-references/)
+4. [Using % and .format() for great good!](https://pyformat.info/)
 
 
 ## Context managers
