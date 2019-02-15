@@ -69,6 +69,7 @@
 6. [Python Interface Design](https://hashedin.com/2016/12/06/python-interface-design/)
 7. [Designing Modules in Python](https://hashedin.com/training/DesigningModulesInPython-v1.0.pdf)
 8. [How to Deploy Python WSGI Apps Using Gunicorn HTTP Server Behind Nginx](https://www.digitalocean.com/community/tutorials/how-to-deploy-python-wsgi-apps-using-gunicorn-http-server-behind-nginx)
+9. [Functors, Applicativers and monads in pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
 
 
 ## Descriptors
