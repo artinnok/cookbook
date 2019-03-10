@@ -10,6 +10,8 @@
 2. [Django performance tips](https://jacobian.org/writing/django-performance-tips/)
 3. [Performance Tips](https://wiki.python.org/moin/PythonSpeed/PerformanceTips)
 
+## Go
+1. [Go by Example](https://gobyexample.com/)
 
 ## Tips and Tricks
 1. [10 скрытых фич Python](http://theasder.github.io/python/2016/02/13/Hidden-features-of-Python.html)
