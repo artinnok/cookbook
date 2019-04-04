@@ -12,6 +12,7 @@
 
 ## Go
 1. [Go by Example](https://gobyexample.com/)
+2. [Go Slices: usage and internals](https://blog.golang.org/go-slices-usage-and-internals)
 
 ## Tips and Tricks
 1. [10 скрытых фич Python](http://theasder.github.io/python/2016/02/13/Hidden-features-of-Python.html)
