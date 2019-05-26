@@ -129,3 +129,4 @@
 6. [Немного фактов о python asyncio](https://habrahabr.ru/post/314606/)
 7. [Python async/await Tutorial](http://stackabuse.com/python-async-await-tutorial/)
 8. [Example: Chain coroutines](https://docs.python.org/3/library/asyncio-task.html#example-chain-coroutines)
+9. [Gevent Tutorial](http://sdiehl.github.io/gevent-tutorial)
