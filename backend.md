@@ -19,6 +19,7 @@
 2. [Пользовательские атрибуты в Python](https://habrahabr.ru/post/137415/)
 3. [Python Weak References](http://mindtrove.info/python-weak-references/)
 4. [Using % and .format() for great good!](https://pyformat.info/)
+5. [The Little Book of Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/index.html)
 
 
 ## Context managers
