@@ -48,6 +48,11 @@
 25. [Post-installation steps for Linux](https://docs.docker.com/install/linux/linux-postinstall/#configure-docker-to-start-on-boot)
 
 
+# Raspberry Pi
+1. [Batocera](https://batocera.org)
+2. [RetroPie](https://retropie.org.uk)
+
+
 ## Ansible
 1. [Ansible Quick Start](https://ryaneschinger.com/blog/ansible-quick-start/)
 2. [Installing a LAMP server with Ansible playbooks and roles](http://labs.qandidate.com/blog/2013/11/21/installing-a-lamp-server-with-ansible-playbooks-and-roles/)
