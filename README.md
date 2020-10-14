@@ -27,6 +27,7 @@
 ## Blogs
 1. [Вастрик.ру - vas3k](https://vas3k.ru)
 2. [sobolevn's personal blog](https://sobolevn.me)
-3. [lexev.org - записи python разработчика](http://www.lexev.org/)
-4. [Персональный блок Адиля Хаштамова](https://khashtamov.com/ru/)
-5. [Aleksey Martynov's Blog](https://blog.amartynov.ru/)
+3. [distributedpython](https://www.distributedpython.com/)
+4. [lexev.org - записи python разработчика](http://www.lexev.org/)
+5. [Персональный блок Адиля Хаштамова](https://khashtamov.com/ru/)
+6. [Aleksey Martynov's Blog](https://blog.amartynov.ru/)
