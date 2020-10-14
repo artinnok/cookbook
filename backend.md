@@ -20,7 +20,7 @@
 3. [Python Weak References](http://mindtrove.info/python-weak-references/)
 4. [Using % and .format() for great good!](https://pyformat.info/)
 5. [The Little Book of Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/index.html)
-
+6. [Celery Execution Pools: What is it all about?](https://www.distributedpython.com/2018/10/26/celery-execution-pool/)
 
 ## Context managers
 1. [Python with Context Managers](http://jeffknupp.com/blog/2016/03/07/python-with-context-managers/)
