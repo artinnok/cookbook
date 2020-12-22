@@ -4,12 +4,12 @@
 1. [The Twelve-Factor App](https://12factor.net/)
 2. [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
 3. [The Best of the Best Practices (BOBP) Guide for Python](https://gist.github.com/sloria/7001839)
+4. [](https://book.pythontips.com/en/latest/index.html)
 
 ## Books
 1. [A Byte of Python](http://wombat.org.ua/AByteOfPython/#a-byte-of-python)
 2. [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
-3. [Python Tips](http://book.pythontips.com/en/latest/index.html)
-4. [Django ORM Cookbook](http://books.agiliq.com/projects/django-orm-cookbook/en/latest/index.html)
+3. [Django ORM Cookbook](http://books.agiliq.com/projects/django-orm-cookbook/en/latest/index.html)
 
 
 ## Train
