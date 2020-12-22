@@ -48,6 +48,32 @@
 25. [Post-installation steps for Linux](https://docs.docker.com/install/linux/linux-postinstall/#configure-docker-to-start-on-boot)
 
 
+## Docker management
+1. [Portainer](https://www.portainer.io)
+
+
+## Tracing
+1. [OpenTelementry](https://opentelemetry.io)
+2. [DATADOG](https://www.datadoghq.com)
+3. [Jaeger](https://www.jaegertracing.io)
+
+
+## Logging
+1. [ELK](https://www.elastic.co/learn)
+2. [DATADOG](https://www.datadoghq.com)
+3. [Loki](https://github.com/grafana/loki)
+
+
+## Monitoring / alerting
+1. [Sentry](https://sentry.io)
+2. [Rollbar](http://rollbar.com)
+
+
+## Metrics
+1. [Grafana](https://grafana.com/oss/grafana/)
+2. [Prometheus](https://grafana.com/oss/prometheus/)
+
+
 ## Ansible
 1. [Ansible Quick Start](https://ryaneschinger.com/blog/ansible-quick-start/)
 2. [Installing a LAMP server with Ansible playbooks and roles](http://labs.qandidate.com/blog/2013/11/21/installing-a-lamp-server-with-ansible-playbooks-and-roles/)
