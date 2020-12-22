@@ -3,6 +3,7 @@
 ## Best practices
 1. [The Twelve-Factor App](https://12factor.net/)
 2. [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
+3. [The Best of the Best Practices (BOBP) Guide for Python](https://gist.github.com/sloria/7001839)
 
 ## Books
 1. [A Byte of Python](http://wombat.org.ua/AByteOfPython/#a-byte-of-python)
