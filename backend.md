@@ -90,19 +90,12 @@
 6. [ReDoc - API docs builder (Swagger wrapper)](https://github.com/Rebilly/ReDoc)
 7. [Swagger - API docs builder](https://smartbear.com/connect-2017/swagger/)
 
-## Threading
-1. [Лекция 11. Многопоточные вычисления.](http://ideafix.name/wp-content/uploads/2012/07/Python-11.pdf)
-2. [Учимся писать многопоточные и многопроцессные приложения на Python](https://habrahabr.ru/post/149420/)
-3. [Python threads synchronization: Locks, RLocks, Semaphores, Conditions, Events and Queues](http://www.laurentluce.com/posts/python-threads-synchronization-locks-rlocks-semaphores-conditions-events-and-queues/)
-4. [Потоки vs процессы](http://www.cyberforum.ru/blogs/18334/blog310.html)
-
 ## OOP: Inheritance
 1. [Порядок разрешения методов в Python](https://habrahabr.ru/post/62203/)
 2. [Композиция vs Наследование](https://docs.google.com/presentation/u/1/d/1l_8ELk7eDrIyeygFeAi1uNMkZf4ekFFw0zt29BvvvQo/htmlpresent?hl=ru)
 
 ## Django User model
 1. [How to Extend Django User Model](https://simpleisbetterthancomplex.com/tutorial/2016/07/22/how-to-extend-django-user-model.html)
-
 
 ## Hashing
 1. [Симметричный алгоритм](https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BC%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%87%D0%BD%D1%8B%D0%B5_%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B)
@@ -120,6 +113,19 @@
 
 ## Late Binding
 1. [Python Late Binding and its side effect](http://www.pythonabc.com/python-late-binding-side-effect/)
+
+
+## Threading / multiprocessing
+1. [Лекция 11. Многопоточные вычисления.](http://ideafix.name/wp-content/uploads/2012/07/Python-11.pdf)
+2. [Учимся писать многопоточные и многопроцессные приложения на Python](https://habrahabr.ru/post/149420/)
+3. [Python threads synchronization: Locks, RLocks, Semaphores, Conditions, Events and Queues](http://www.laurentluce.com/posts/python-threads-synchronization-locks-rlocks-semaphores-conditions-events-and-queues/)
+4. [Потоки vs процессы](http://www.cyberforum.ru/blogs/18334/blog310.html)
+
+## Gevent / eventlet
+1. [What is greenlet?](https://greenlet.readthedocs.io/en/latest/)
+2. [Gevent tutorial for Working Developer](http://sdiehl.github.io/gevent-tutorial/)
+3. [Save the day with gevent](https://iximiuz.com/en/posts/save-the-day-with-gevent/)
+4. [Real-time apps with gevent-socketio](https://learn-gevent-socketio.readthedocs.io/en/latest/index.html)
 
 ## Async
 1. [In Which We Begin at the Beginning](http://krondo.com/in-which-we-begin-at-the-beginning/)
